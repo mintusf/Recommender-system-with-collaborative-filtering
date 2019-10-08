@@ -1,5 +1,5 @@
 # Recommender-system-with-collaborative-filtering
-The program has two main functionalities. The first one is building a regularized recommender system with collaborative filtering and learning it with a "MovieLens" dataset (https://grouplens.org/datasets/movielens/) with 1 millions movie ratings. The second features is finding recommendations for a new user. A user, after inputting some ratings to the "Movies_fornewuser.txt" file, can use provided model, which was learnt using the first feature, to find new movies recommendations.
+The program has two main functionalities. The first one is building a regularized recommender system with collaborative filtering and learning it with a "MovieLens" dataset (https://grouplens.org/datasets/movielens/) with 1 millions movie ratings. The second features is finding recommendations for a new user which is done by implementation of a content-based recommender system. A user, after inputting some ratings to the "Movies_fornewuser.txt" file, can use provided model, which was learnt using the first feature, to find new movies recommendations.
 
 Files:
 Python scripts:
